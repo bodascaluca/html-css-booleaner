@@ -31,7 +31,7 @@
 }
 
 #descizioneimmagini{
-    font-size: 10px;
+    font-size: 13px;
 }
 
 .marginealto{
@@ -40,4 +40,40 @@
 
 .evidenziatore{
     background-color: yellow;
+}
+
+thead{
+    background-color:#29a9e5 ;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  tbody{
+    background-color: 7c7c7c;
+  }
+
+  tr {
+    height: 70px;
+  }
+
+.foto{
+    width: 312px;
+    height: 208;
+}
+
+.footering{
+    display:inline-block;
+}
+
+.footertesto{
+    display: inline-block;
+    position: relative;
+    top: 0;
+    left: 0;
+    color: white;
+    width: 10px;
 }
