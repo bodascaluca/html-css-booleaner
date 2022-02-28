@@ -4,3 +4,37 @@
     box-sizing: border-box;
 }
 
+/* .contenitore{
+    background-image: url("img_pattern.png");
+    height: 100px;;
+}
+
+#logo{
+    width: 80px;
+    height: 30px;
+    background-color: red;
+} */
+
+#credenziali{
+    color: rgb(128, 128, 128);
+}
+
+#link{
+    text-decoration: none;
+}
+
+.marginebasso{
+    margin-top: 15px;
+}
+
+#descizioneimmagini{
+    font-size: 10px;
+}
+
+.marginealto{
+    margin-top: 20px;
+}
+
+.evidenziatore{
+    background-color: yellow;
+}
