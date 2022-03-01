@@ -42,21 +42,35 @@
     background-color: yellow;
 }
 
-thead{
-    background-color:#29a9e5 ;
-}
-
-
 table {
     border-collapse: collapse;
     width: 100%;
   }
   
-  tbody{
+  th{
+    background-color: #5aabe9 ;
+    color: white;
+    width: 25px;
+}
+
+tr:nth-child(1){
+    background-color:  #b1e5f2
+}
+
+tr:nth-child(3){
+    background-color: #b1e5f2
+}
+
+tr {
+    text-align: left;
+    padding: 8px;
+}
+
+.colorrow{
     background-color: 7c7c7c;
   }
 
-  tr {
+  td {
     height: 70px;
   }
 
