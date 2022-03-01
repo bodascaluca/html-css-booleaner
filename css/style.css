@@ -66,28 +66,50 @@ tr {
     padding: 8px;
 }
 
-.colorrow{
-    background-color: 7c7c7c;
-  }
-
   td {
     height: 70px;
   }
 
-.foto{
+.footerimg{
     width: 312px;
-    height: 208;
+    height: 208px;
+    background-image: url(../img/monitor.jpg);
 }
 
-.footering{
+.footertesto{
+    color: white;
+    position: relative;
+    top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+.footering, {
     display:inline-block;
+    position: relative;
 }
 
 .footertesto{
     display: inline-block;
-    position: relative;
+    position: absolute;
     top: 0;
     left: 0;
     color: white;
     width: 10px;
-}
+} */
