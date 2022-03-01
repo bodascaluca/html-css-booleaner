@@ -70,6 +70,10 @@ tr {
     height: 70px;
   }
 
+  .margineup-down{
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
 .footerimg{
     width: 312px;
     height: 208px;
@@ -80,6 +84,12 @@ tr {
     color: white;
     position: relative;
     top: 10px;
+}
+
+.footerimg2{
+    width: 312px;
+    height: 208px;
+    background-image: url(../img/graph.jpg);
 }
 
 
